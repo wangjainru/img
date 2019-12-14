@@ -1,6 +1,6 @@
-# Agricultural Knowledge Graph
+# 爱宠*你的选择
 
-项目demo：http://ecnukg.vicp.io 
+
 
 ## 项目介绍：
 
