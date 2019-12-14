@@ -166,6 +166,7 @@ sudo sh django_server_start.sh
 ### 实体查询
 
 实体查询部分，我们能够搜索出与某一实体相关的实体，以及它们之间的关系：
+![](https://github.com/wangjainru/img/blob/master/%E5%9B%BE%E7%89%87/QQ%E5%9B%BE%E7%89%8720191213202911.png)
 
 
 ### 关系查询
